@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the UK Cosmology Meeting Website
 
 You can use the [editor on GitHub](https://github.com/samsanlop/uk-cosmo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
