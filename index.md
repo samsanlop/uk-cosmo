@@ -1,8 +1,5 @@
-## Welcome to the UK Cosmology Meeting Website
+Here you will be able to register for the event, which will take place on January 8-9, 2020, as well as see the program.
 
-You can use the [editor on GitHub](https://github.com/samsanlop/uk-cosmo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
