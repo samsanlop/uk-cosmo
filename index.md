@@ -1,3 +1,5 @@
+$ git add 
+
 Here you will be able to register for the event, which will take place on January 8-9, 2020, as well as see the program.
 
 
